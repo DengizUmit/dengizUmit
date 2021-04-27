@@ -1,14 +1,14 @@
 ### Hi there 👋
 
-'''
+
 # My name is Umit, I am Computer Engineer & full of hope 💥
 ## Ümit Dengiz - Software Developer 🐍
-'''
+
 
 [üd - LinkedIn](https://www.linkedin.com/in/umit-dengiz/)
 
 
-# My interest
+# My interest ♠️ ♥️ ♣️ ♦️
 
 - BlockChain
 - Entrepreneurship
