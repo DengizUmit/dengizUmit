@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-# My name is Umit, I am Computer Engineer & full of hope 💥
+# My name is Umit, I am full of hope 💥
 ## Ümit Dengiz - Software Developer 🐍
 
 
