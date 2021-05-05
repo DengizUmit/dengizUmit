@@ -4,6 +4,8 @@
 # My name is Umit, I am full of hope 💥
 ## Ümit Dengiz - Software Developer 🐍
 
+# <DRY> Don't repeat yourself </DRY> 
+
 
 [üd - LinkedIn](https://www.linkedin.com/in/umit-dengiz/)
 
