@@ -4,7 +4,7 @@
 # My name is Umit, I am full of hope 💥
 ## Ümit Dengiz - Software Developer 🐍
 
-# <DRY> Don't repeat yourself </DRY> 
+#  ( <DRY> Don't Repeat Yourself </DRY> )
 
 
 [üd - LinkedIn](https://www.linkedin.com/in/umit-dengiz/)
