@@ -12,6 +12,7 @@
 
 # My interest ♠️ ♥️ ♣️ ♦️
 
+- Software
 - BlockChain
 - Entrepreneurship
 - Economy 
