@@ -5,7 +5,7 @@
 ## Ümit Dengiz - Software Developer 🐍
 
 
-#   💎
+                          💎
     ( <DRY> DRY - Don't Repeat Yourself </DRY> )
     ( <KISS> KISS - Keep It Simple, Stupid </KISS> )
     ( <SOC> SOC - Seperation Of Concerns </SOC> )
