@@ -5,10 +5,7 @@
 ## Ümit Dengiz - Software Developer 🐍
 
 
-#  ( <DRY> Don't Repeat Yourself </DRY> )
-#  ( <KISS> Keep It Simple, Stupid </KISS> )
-#  ( <SOC> Seperation Of Concerns </SOC> )
-#  ( <YAGNI> You Ain't Gonna Need It </YAGNI> )
+#  ( <DRY> Don't Repeat Yourself </DRY> )  ( <KISS> Keep It Simple, Stupid </KISS> )  ( <SOC> Seperation Of Concerns </SOC> )  ( <YAGNI> You Ain't Gonna Need It </YAGNI> )
 
 
 [üd - LinkedIn](https://www.linkedin.com/in/umit-dengiz/)
