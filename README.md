@@ -10,7 +10,10 @@
     ( <KISS> KISS - Keep It Simple, Stupid </KISS> )
     ( <SOC> SOC - Seperation Of Concerns </SOC> )
     ( <YAGNI> YAGNI - You Ain't Gonna Need It </YAGNI> )
+    
 
+                          ✨
+     S          O          L          I          D
 
 [üd - LinkedIn](https://www.linkedin.com/in/umit-dengiz/)
 
