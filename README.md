@@ -6,7 +6,7 @@
 
 
                           💎
-
+<!--
     ( <DRY> DRY - Don't Repeat Yourself </DRY> )
     ( <KISS> KISS - Keep It Simple, Stupid </KISS> )
     ( <SOC> SOC - Seperation Of Concerns </SOC> )
@@ -15,6 +15,7 @@
 
                           ✨
      S          O          L          I          D
+-->
 
 [üd - LinkedIn](https://www.linkedin.com/in/umit-dengiz/)
 
