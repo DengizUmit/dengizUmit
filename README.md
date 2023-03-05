@@ -7,8 +7,8 @@ My name is Umit, I am full of hope 💥
 My interest are Software, BlockChain Technology, Entrepreneurship, Economy, Team Work and ChatGBT ( Artificial Intelligence).
 
 
-                          💎
 <!--
+                          💎
     ( <DRY> DRY - Don't Repeat Yourself </DRY> )
     ( <KISS> KISS - Keep It Simple, Stupid </KISS> )
     ( <SOC> SOC - Seperation Of Concerns </SOC> )
@@ -17,7 +17,7 @@ My interest are Software, BlockChain Technology, Entrepreneurship, Economy, Team
      S          O          L          I          D
 -->
 
-[üd - LinkedIn](https://www.linkedin.com/in/umit-dengiz/)
+[my linkedIn address](https://www.linkedin.com/in/umit-dengiz/)
 
 
 # My interest ♠️ ♥️ ♣️ ♦️
