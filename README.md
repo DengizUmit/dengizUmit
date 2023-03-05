@@ -1,8 +1,10 @@
+### Ümit Dengiz - Computer Engineer (Software Developer) 🐍
+
 ### Hi there 👋
 
+My name is Umit, I am full of hope 💥
 
-# My name is Umit, I am full of hope 💥
-### Ümit Dengiz - Software Developer 🐍
+My interest are Software, BlockChain Technology, Entrepreneurship, Economy, Team Work and ChatGBT ( Artificial Intelligence).
 
 
                           💎
@@ -11,8 +13,6 @@
     ( <KISS> KISS - Keep It Simple, Stupid </KISS> )
     ( <SOC> SOC - Seperation Of Concerns </SOC> )
     ( <YAGNI> YAGNI - You Ain't Gonna Need It </YAGNI> )
-    
-
                           ✨
      S          O          L          I          D
 -->
@@ -23,10 +23,11 @@
 # My interest ♠️ ♥️ ♣️ ♦️
 
 - Software
-- BlockChain
+- BlockChain Technology
 - Entrepreneurship
-- Economy 
+- Economy
 - Team Work
+- ChatGBT
 
 <!--
 **dengizUmit/dengizUmit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
