@@ -4,7 +4,7 @@
 
 My name is Umit, I am full of hope 💥
 
-My interest are Software, BlockChain Technology, Entrepreneurship, Economy, Team Work and ChatGBT ( Artificial Intelligence).
+My interest are Software, BlockChain Technology, Entrepreneurship, Economy, Team Work and Artificial Intelligence ( ChatGBT ).
 
 
 <!--
