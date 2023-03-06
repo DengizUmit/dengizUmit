@@ -1,4 +1,5 @@
-### Ümit Dengiz - Computer Engineer (Software Developer) 🐍
+## Ümit Dengiz - Computer Engineer (Software Developer) 🐍
+
 
 ### Hi there 👋
 
@@ -17,9 +18,10 @@ My interest are Software, BlockChain Technology, Entrepreneurship, Economy, Team
      S          O          L          I          D
 -->
 
-[my linkedIn address](https://www.linkedin.com/in/umit-dengiz/)
+[<img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white&color=black" />](https://github.com/DengizUmit)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/umit-dengiz/)
 
-
+<!--
 # My interest ♠️ ♥️ ♣️ ♦️
 
 - Software
@@ -28,7 +30,7 @@ My interest are Software, BlockChain Technology, Entrepreneurship, Economy, Team
 - Economy
 - Team Work
 - ChatGBT
-
+-->
 <!--
 **dengizUmit/dengizUmit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
