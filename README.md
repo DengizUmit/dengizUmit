@@ -5,7 +5,7 @@
 
 My name is Umit, I am full of hope 💥
 
-My interest are Software, BlockChain Technology, Entrepreneurship, Economy, Team Work and Artificial Intelligence ( ChatGBT ).
+My interest are Software Development, BlockChain Technology, Entrepreneurship, Economy, Team Work and Artificial Intelligence.
 
 
 <!--
@@ -29,7 +29,7 @@ My interest are Software, BlockChain Technology, Entrepreneurship, Economy, Team
 - Entrepreneurship
 - Economy
 - Team Work
-- ChatGBT
+- ChatGPT
 -->
 <!--
 **dengizUmit/dengizUmit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
